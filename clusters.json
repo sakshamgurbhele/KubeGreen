@@ -1,0 +1,20 @@
+{
+  "gke-london": {
+    "context": "gke-london",
+    "region": "London",
+    "carbon_zone": "UK",
+    "prometheus_url": "http://localhost:9090"
+  },
+  "gke-frankfurt": {
+    "context": "gke-frankfurt",
+    "region": "Frankfurt",
+    "carbon_zone": "DE",
+    "prometheus_url": "http://localhost:9091"
+  },
+  "gke-madrid": {
+    "context": "gke-madrid",
+    "region": "Madrid",
+    "carbon_zone": "ES",
+    "prometheus_url": "http://localhost:9092"
+  }
+}
